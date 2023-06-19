@@ -1,0 +1,5 @@
+File of accounts: accounts.txt
+File of department: departments.txt
+File of doctor: doctors.txt
+File of patient: patients.txt
+File of examinations: examinations.txt

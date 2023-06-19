@@ -1,0 +1,3 @@
+misora1,123456,BOSS
+misora2,123456,ACC-1
+misora3,123456,ACC-2
